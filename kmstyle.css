@@ -4,7 +4,7 @@
     font-family:CiscoSansTT Extra Light;
     font-style:normal;
     font-weight:400;
-    src:url("./fonts/CiscoSansTTExtraLight.woff2") 
+    src:url("https://github.com/davidepaula/km_template/tree/master/fonts/CiscoSansTTExtraLight.woff2") 
     format("woff2");
     font-display:fallback
   }
@@ -13,7 +13,7 @@
     font-family:CiscoSansTT Thin;
     font-style:normal;
     font-weight:400;
-    src:url("./fonts/CiscoSansTTThin.woff2")
+    src:url("https://github.com/davidepaula/km_template/tree/master/fonts/CiscoSansTTThin.woff2")
     format("woff2");
     font-display:fallback
   }
@@ -22,7 +22,7 @@
     font-family:CiscoSansTT Light;
     font-style:normal;
     font-weight:400;
-    src:url("./fonts/CiscoSansTTLight.woff2")
+    src:url("https://github.com/davidepaula/km_template/tree/master/fonts/CiscoSansTTLight.woff2")
     format("woff2");
     font-display:fallback
   }
